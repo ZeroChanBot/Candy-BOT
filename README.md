@@ -26,6 +26,7 @@
 * Run Bot
 ```bash
 > npm start
+ Scan QR Code
 ```
 
 # Replit
@@ -34,4 +35,6 @@
 [![Group WhatsApp](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/FTvfxlLed2XGhjjaKF67os)
 
 
-##
+## Special Thanks To
+[DCODE-DENPA](https://github.com/dcode-denpa)
+
