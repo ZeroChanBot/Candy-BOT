@@ -7,6 +7,7 @@
 # Cara Penginstalan
 
 * Termux
+bash
 ```
 ---------------
 > apt update
@@ -22,12 +23,14 @@
 > bash install.sh
  Tunggu Hingga Proses Download Selesai
 ```
-```
+
 * Run Bot
+bash
+```
 > npm start
 ```
 
-
 * Replit
+
 [![Run on Repl.it](https://repl.it/badge/github/zennn08/express-uploader)](https://repl.it/github/ZeroChanBot/Candy-BOT)
 [![Group WhatsApp](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/FTvfxlLed2XGhjjaKF67os)
