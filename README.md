@@ -19,8 +19,8 @@
 ---------------
 > git clone https://github.com/ZeroChanBot/Candy-BOT
 > cd Candy-BOT
-> bash install.sh
- Tunggu Hingga Proses Download Selesai
+> git clone https://github.com/ZeroChanBot/Candy-BOT-module
+ Tunggu Hingga Proses Clone Module Selesai
 ```
 
 * Run Bot
@@ -35,6 +35,4 @@
 [![Group WhatsApp](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/FTvfxlLed2XGhjjaKF67os)
 
 
-## Special Thanks To
-[DCODE-DENPA](https://github.com/dcode-denpa)
 
