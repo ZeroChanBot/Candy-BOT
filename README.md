@@ -36,6 +36,8 @@ Tunggu Hingga Proses Clone Module Selesai
 
 * Run Bot
 ```bash
+> tty-clock -s -S -x -c -C 2 -b -B
+> clear
 > npm start
  Scan QR Code
 ```
