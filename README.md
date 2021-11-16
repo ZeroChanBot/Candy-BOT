@@ -20,7 +20,18 @@
 > git clone https://github.com/ZeroChanBot/Candy-BOT
 > cd Candy-BOT
 > git clone https://github.com/ZeroChanBot/Candy-BOT-module
- Tunggu Hingga Proses Clone Module Selesai
+
+Tunggu Hingga Proses Clone Module Selesai
+---------------
+> apt-get install tty-clock -y
+> apt-get install sox -y
+> apt-get install jq -y
+> apt-get install figlet -y
+> apt-get install wget -y
+> apt-get install ffmpeg libwebp -y
+> apt-get install nodejs -y
+> apt-get install tesseract -y
+> wget -O ~/../usr/share/tessdata/ind.traineddata "https://github.com/tesseract-ocr/tessdata/blob/master/ind.traineddata?raw=true"
 ```
 
 * Run Bot
