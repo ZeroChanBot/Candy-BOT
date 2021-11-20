@@ -19,7 +19,7 @@
 ---------------
 > git clone https://github.com/ZeroChanBot/Candy-BOT
 > cd Candy-BOT
-> git clone https://github.com/ZeroChanBot/Candy-BOT-module
+> git clone https://github.com/ZeroChanBot/node_modules
 
 Tunggu Hingga Proses Clone Module Selesai
 ---------------
